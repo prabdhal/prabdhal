@@ -93,9 +93,9 @@ I created a fully-featured **On-Screen Keyboard** asset for Unity, designed to s
 2. **Script Configuration**: Customize key behavior using `OnScreenKeyboard.cs`, `ManagedInputField.cs`, and `Key.cs`.
 3. **Input System Configuration**: Bind actions for gamepad or touch inputs using Unity's Input System.
 
-This asset is available for free on the Unity Asset Store and can be used in personal and commercial projects. Modify it freely to fit your needs!
+Check out the asset demo here: [On-Screen Keyboard Demo](https://www.youtube.com/watch?v=Sw9J0tUA0Mo)
 
-Check out the project demo here: [Project Demo]([https://www.youtube.com/watch?v=ocZWB4JfVWk&t=1s](https://www.youtube.com/watch?v=Sw9J0tUA0Mo))
+This asset is available for free on the Unity Asset Store and can be used in personal and commercial projects. Modify it freely to fit your needs!
 
 ---
 
@@ -110,3 +110,4 @@ Feel free to explore my projects, and if you have any feedback or want to contri
 - **GitHub**: [prabdhal](https://github.com/prabdhal)
 - **YouTube**: [@prabdeepdhaliwal9725](https://www.youtube.com/@prabdeepdhaliwal9725)
 - **LinkedIn**: [prabdeep-dhaliwal](https://www.linkedin.com/in/prabdeep-dhaliwal/)
+- **Twitter**: [@prabdhal](https://twitter.com/prabdhal)
