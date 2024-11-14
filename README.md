@@ -75,6 +75,30 @@ Download and play the game [here](https://github.com/prabdhal/UnityTechnicalChal
 
 ---
 
+### [On-Screen Keyboard for Unity (Asset Store)](https://assetstore.unity.com/packages/tools/input-management/on-screen-keyboard-for-unity-263226)
+
+I created a fully-featured **On-Screen Keyboard** asset for Unity, designed to support platforms like mobile, VR, and others where a physical keyboard is not available. It integrates seamlessly with TextMesh Pro's TMP_InputField, allowing players to type through gamepad, VR, or touch inputs. The asset offers customizable colors, shift/caps lock functionality, and more!
+
+#### Key Features:
+- **Gamepad Support**: Type and navigate the keyboard with a gamepad.
+- **Shift & Caps Lock**: Switch between upper and lowercase letters.
+- **Primary & Secondary Keys**: Support for both lowercase/uppercase and symbol characters.
+- **Simple Setup**: Drag-and-drop prefabs with easy-to-use components.
+- **Responsive Input Fields**: Automatically shows the keyboard when an input field is selected.
+- **Prefabs Included**: Ready-to-use keyboard, input field containers, and demo scenes.
+- **New Input System Compatible**: Works with Unity's Input System for easy action binding.
+
+#### Setup Instructions:
+1. **Scene Setup**: Add the On-Screen Keyboard Prefab, configure TMP_InputField, and use the provided prefabs for easy integration.
+2. **Script Configuration**: Customize key behavior using `OnScreenKeyboard.cs`, `ManagedInputField.cs`, and `Key.cs`.
+3. **Input System Configuration**: Bind actions for gamepad or touch inputs using Unity's Input System.
+
+This asset is available for free on the Unity Asset Store and can be used in personal and commercial projects. Modify it freely to fit your needs!
+
+Check out the project demo here: [Project Demo]([https://www.youtube.com/watch?v=ocZWB4JfVWk&t=1s](https://www.youtube.com/watch?v=Sw9J0tUA0Mo))
+
+---
+
 ## More About Me
 I am passionate about creating games that are both challenging and fun. As an indie developer, I focus on game mechanics that require strategic thinking, along with vibrant and engaging worlds. My goal is to create experiences that are both enjoyable and rewarding for players.
 
@@ -85,3 +109,4 @@ Feel free to explore my projects, and if you have any feedback or want to contri
 ### Connect With Me
 - **GitHub**: [prabdhal](https://github.com/prabdhal)
 - **YouTube**: [@prabdeepdhaliwal9725](https://www.youtube.com/@prabdeepdhaliwal9725)
+- **LinkedIn**: [prabdeep-dhaliwal](https://www.linkedin.com/in/prabdeep-dhaliwal/)
